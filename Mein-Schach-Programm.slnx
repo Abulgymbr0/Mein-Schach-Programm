@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bibliotek/Bibliotek.csproj" />
+  <Project Path="Schach/Schach.csproj" />
+  <Project Path="Unit-Tests/Unit-Tests.csproj" />
+</Solution>
