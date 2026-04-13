@@ -2,28 +2,32 @@
 
 public class Class1
 {
-public override string ToString()
+    public override string ToString()
     {
         var sb = new System.Text.StringBuilder();
         int size = 8;
- 
+
         string line = "+";
         for (int i = 0; i < size; i++)
-        line += "--+";
-        for(int row = 0; row < size; row++)
+            line += "--+";
+        for (int row = 0; row < size; row++)
         {
             sb.AppendLine(line);
- 
+
             for (int col = 0; col < size; col++)
             {
                 sb.Append("|");
- 
-                if((row + col) % 2 == 0)
-                sb.Append("##");
+
+                if ((row + col) % 2 == 0)
+                    sb.Append("##");
                 else
-                sb.Append(" ");
+                    sb.Append(" ");
             }
             sb.AppendLine("|");
         }
+        sb.Append("|");
+
+        return sb.ToString();
+    }
 }
-}
+
