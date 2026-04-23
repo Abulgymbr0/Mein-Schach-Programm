@@ -1,0 +1,12 @@
+/config/workspace/Mein-Schach-Programm/Bibliotek/bin/Debug/net10.0/Bibliotek.deps.json
+/config/workspace/Mein-Schach-Programm/Bibliotek/bin/Debug/net10.0/Bibliotek.dll
+/config/workspace/Mein-Schach-Programm/Bibliotek/bin/Debug/net10.0/Bibliotek.pdb
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/Bibliotek.AssemblyInfoInputs.cache
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/Bibliotek.AssemblyInfo.cs
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/Bibliotek.csproj.CoreCompileInputs.cache
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/Bibliotek.sourcelink.json
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/Bibliotek.dll
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/refint/Bibliotek.dll
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/Bibliotek.pdb
+/config/workspace/Mein-Schach-Programm/Bibliotek/obj/Debug/net10.0/ref/Bibliotek.dll
